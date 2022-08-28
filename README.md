@@ -2,7 +2,22 @@
 ### for PBLProject-1
 
 *sudo apt update*
+*sudo apt install apache2*
+![sudo apt install apache2](./images/sudo%20apt%20install%20apache2.png)
 ![sudo apt update](./images/sudo%20apt%20update.png)
 *sudo apt install apache2*
 *sudo systemctl apache2*
 ![sudo systemctl status apache2](./images/sudo%20systemctl%20status%20apaches2.png)
+
+*sudo apt install after apache2*
+![sudo apt update after apache2](./images/sudo%20apt%20install%20apache2.png)
+
+*Step 2 - Installing mysql-server*
+![sudo apt install mysql-server](./images/sudo%20apt%20install%20mysql-server.png)
+*sudo mysql*
+![sudo mysql](./images/sudo%20mysql.png)
+
+*Step 3 - Installing PHP*
+![sudo apt install php libapache2-mod-php php-mysql](./images/sudo%20apt%20install%20php%20libapache2-mod-php%20php-mysql.png)
+*PHP version Check*
+![php -v](./images/sudo%20mysql.png)
