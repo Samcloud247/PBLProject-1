@@ -21,3 +21,10 @@
 ![sudo apt install php libapache2-mod-php php-mysql](./images/sudo%20apt%20install%20php%20libapache2-mod-php%20php-mysql.png)
 *PHP version Check*
 ![php -v](./images/sudo%20mysql.png)
+*Step 4 - Creating a Virtual Host for  Wbsite using Apache*
+*STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE*
+![project 1 step 4](./images/php-v.png)
+
+*virtual website works!*
+![virtual landing page](./images/virtual%20host%20display.png)
+
