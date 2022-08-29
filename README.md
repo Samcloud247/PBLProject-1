@@ -27,4 +27,5 @@
 
 *virtual website works!*
 ![virtual landing page](./images/virtual%20host%20display.png)
-
+ *Project 1 Step5 - enable php on the website*
+ ![sudo vim /etc/apache2/mods-enabled/dir.conf](./images/php%20page.png) 
