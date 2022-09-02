@@ -1,5 +1,5 @@
-# PBLProject-1
-### for PBLProject-1
+# PWEB STACK IMPLEMENTATION (LEMP STACK)
+### for PBLProject-2
 
 *sudo apt update*
 *sudo apt install apache2*
