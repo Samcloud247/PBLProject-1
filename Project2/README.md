@@ -11,3 +11,6 @@
 
 *curl http://localhost:80
 ![curl http://localhost:80](./images/curl%20httplocalhost80.png)
+
+*http://<Public-IP-Address>:80*
+![http://<Public-IP-Address>:80](./images/curl%20httplocalhost80.png)
