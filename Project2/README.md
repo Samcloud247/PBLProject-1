@@ -14,3 +14,12 @@
 
 *http://<Public-IP-Address>:80*
 ![http://<Public-IP-Address>:80](./images/curl%20httplocalhost80.png)
+
+*STEP 2 — INSTALLING MYSQL*
+![sudo apt install mysql-server](./images/sudo%20apt%20install%20mysql-server.png)
+
+**sudo mysql**
+![sudo mysql](./images/sudo%20mysql.png)
+
+**setting up mysql**
+![setting up mysql](./images/setting%20up%20mysql.png)
