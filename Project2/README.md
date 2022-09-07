@@ -23,3 +23,6 @@
 
 **setting up mysql**
 ![setting up mysql](./images/setting%20up%20mysql.png)
+
+**Step 3: Installing PHP**
+![sudo apt install php-fpm php-mysql](./images/sudo%20apt%20install%20php-fmp%20php-mysql.png)
